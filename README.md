@@ -27,8 +27,8 @@ Clone the Project and run the *.jar
 
 ## Built With
 
-* Processing - https://processing.org/
+* Processing - https://processing.org/ and Java
  
 
-## Authors
+## Author
 Yeshwanth
