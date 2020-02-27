@@ -15,7 +15,8 @@ Software's required - JDK,processing, Eclipse(optional if you are comfortable us
 ### Installing
 
 Processing can be downloaded from the link- https://processing.org/download/
-\nOptional- Integrating Processing to eclipse
+
+Optional- Integrating Processing to eclipse
 http://pages.cs.wisc.edu/~cs302/labs/EclipseTutorial_Processing/Step_02.html
 
 
